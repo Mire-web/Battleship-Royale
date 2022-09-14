@@ -1,2 +1,2 @@
 # ***Battleship-Royale***
-###A C++ console game using Arrays and loops.
+### A C++ console game using Arrays and loops.
